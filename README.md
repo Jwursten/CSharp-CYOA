@@ -7,9 +7,7 @@ I created a basic text-based adventure game to learn about C#.
 
 I wrote this to increase my understanding of C#.
 
-{Provide a link to your YouTube demonstration. It should be a 4-5 minute demo of the software running and a walkthrough of the code. Focus should be on sharing what you learned about the language syntax.}
-
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/n5PjTJd72Dc)
 
 # Development Environment
 
@@ -21,8 +19,8 @@ C#
 
 {Make a list of websites that you found helpful in this project}
 
-- [Web Site Name](http://url.link.goes.here)
-- [Web Site Name](http://url.link.goes.here)
+- [The Coding Guys]([http://url.link.goes.here](https://www.thecodingguys.net/resources/cs-cheat-sheet.pdf))
+- [Zero To Mastery]([http://url.link.goes.here](https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/)https://zerotomastery.io/cheatsheets/csharp-cheat-sheet/)
 
 # Future Work
 
